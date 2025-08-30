@@ -8,7 +8,7 @@
   "containerDefinitions": [
     {
       "name": "document-portal-container",
-      "image": "097219365094.dkr.ecr.ap-southeast-2.amazonaws.com/documentportalliveclass",
+      "image": "097219365094.dkr.ecr.ap-southeast-2.amazonaws.com/documentportal",
       "cpu": 1024,
       "essential": true,
       "portMappings": [
